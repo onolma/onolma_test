@@ -1,2 +1,3 @@
 # onolma_test
-オノルマのテストリポジトリです。
+
+onolma's first making
